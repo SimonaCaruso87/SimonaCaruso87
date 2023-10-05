@@ -8,7 +8,7 @@
 
 <br/>
 
-<p>:computer: Mi chiamo <strong>Simona</strong>, ho 36 anni <strong>FULL STACK WEB DEVELOPER</strong>.</p>
+<p>:computer: Mi chiamo <strong>Simona</strong>, ho 36 anni , sono una <strong>FULL STACK WEB DEVELOPER</strong>.</p>
 
 <p>
 	Appassionata di tecnologia, sviluppo e innovazione, ho avuto l'opportunità di essere una studentessa della scuola Boolean che ha avviato uno studio più professionale delle mie passioni legate al mondo del web. 
