@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
 	<img src="./img/linkedin_copertina.png">
 </p>
